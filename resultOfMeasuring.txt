@@ -1,0 +1,11 @@
+Testing the effectiveness of queries
+--------------------------------------
+returnAllPlayersOfNationality:
+  Average query time of: 0.0358999490737915  seconds
+  One query duration: 0.03200 seconds
+playersScoringForTeamAway:
+  Average query time of: 1.8221004605293274  seconds
+  One query duration: 1.81300 seconds
+averageAge:
+  Average query time of: 0.03980010747909546  seconds
+  One query duration: 0.06200 seconds
